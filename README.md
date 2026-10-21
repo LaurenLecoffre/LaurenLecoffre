@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on automation of tools designers use every day.
 - 📫 Best way to reach me is through social media linked on my profile.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Bananas are berries, but strawberries aren't! 🍌🍓
 
 <!---
 LaurenLecoffre/LaurenLecoffre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
